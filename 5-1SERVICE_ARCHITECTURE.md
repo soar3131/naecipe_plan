@@ -71,6 +71,15 @@ flowchart LR
 
 ## 문서 구성
 
+> 2026-02 리팩토링 산출물(실행 문서)
+> - `REFACTORING_MASTER_PLAN_V2.md`
+> - `MVP_SCOPE_FREEZE.md`
+> - `SSOT_SCHEMA_DRAFT.md`
+> - `EVENT_ARCHITECTURE_STAGING.md`
+> - `AGENT_EVAL_PLAN.md`
+> - `TRACEABILITY_MATRIX.md`
+
+
 본 아키텍처 문서는 **8개의 세부 문서**로 구성되어 있다. 각 문서는 특정 영역을 담당하며, 필요한 팀이 해당 문서만 참조할 수 있도록 설계되었다.
 
 ```mermaid

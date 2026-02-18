@@ -6,6 +6,8 @@
 
 ## 1. 전체 시스템 아키텍처
 
+> 단계별 이벤트/인프라 적용 기준은 `EVENT_ARCHITECTURE_STAGING.md`를 따른다.
+
 ### 1.1 4계층 아키텍처 개요
 
 ```mermaid

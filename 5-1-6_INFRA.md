@@ -6,6 +6,8 @@
 
 ## 1. 클라우드 인프라 개요
 
+> 본 문서는 Scale 아키텍처를 포함한다. MVP 배포 기준은 `MVP_SCOPE_FREEZE.md`와 `EVENT_ARCHITECTURE_STAGING.md`를 우선한다.
+
 ### 1.1 AWS 아키텍처
 
 ```mermaid
